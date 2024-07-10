@@ -6,11 +6,7 @@ const NavFooter = () => {
   return (
     <div className="fixed bottom-0 left-0 right-0 flex items-center justify-center text-sm pb-4">
       <div>
-        Made by{' '}
-        <Link target="_blank" href="https://github.com/developerrahulofficial/internet-speed-checker">
-          <span style={{ color: 'pink' }}>Developer Rahul</span>
-        </Link>{' '}
-        with ❤️
+        <Link href={"https://github.com/suraj-o"}>share you love 💓</Link>
       </div>
     </div>
   );
